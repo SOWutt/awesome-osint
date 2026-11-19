@@ -232,7 +232,7 @@ algorithms, knowledgebase and AI technology.
 * [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
 * [packet.guru](https://packet.guru/) - Browser-fingerprint and connection-trust audit: WebRTC/DNS leak tests, JA4/JA3 TLS and passive TCP/IP fingerprints, ECH state, and IP reputation (VPN, proxy, datacenter, Tor), returning two independent 0–100 Privacy & Trust scores. No signup, runs client-side.
 * [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
-* [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
+* [Shodan](https://www.shodan.#io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * [WIPO](https://www3.wipo.int/branddb/en/)
 * [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
 * [YARAif](https://yaraify.abuse.ch/scan/) - Collaborative YARA engine providing open threat intelligence through file pattern matching.
